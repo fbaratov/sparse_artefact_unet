@@ -3,4 +3,4 @@
 mkdir -p model
 cd model
 
-wget https://ndownloader.figshare.com/files/16843907
+wget -O model_epoch100_32.npz https://ndownloader.figshare.com/files/16843907
